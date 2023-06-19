@@ -1,5 +1,6 @@
 # Segmentation_research
-Refer to the report for the explanation of the entire project.
+Refer to the report for the explanation of the entire project and the segmentation.ipynb file for the code.
+
 Sample output from detectron 2 of SegPC 21 dataset.
 (Further results are explained in the chapter 5 of the report)
 
