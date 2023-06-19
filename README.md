@@ -1,4 +1,4 @@
-# Segmentation_research
+# Image Segmentation on Medical Imaging Data
 Refer to the report for the explanation of the entire project and the segmentation.ipynb file for the code.
 
 
